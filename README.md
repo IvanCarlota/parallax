@@ -31,7 +31,7 @@ CSS3
 
   ## Authors
 
-  **Ivan Júnior Carlota** 
+ * **Ivan Júnior Carlota** 
 
   Please follow github and join us!
   Thanks to visiting me and good coding!
