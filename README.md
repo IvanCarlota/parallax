@@ -1,6 +1,3 @@
-# Parallax Example
-Projeto criado para treinar conceitos de layout líquido com CSS3.
-
 ## My Personal Portfolio
 This is my fifth project done with HTML5 and CSS3, this project shows how to implement a parallax. :)
 
