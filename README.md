@@ -12,7 +12,7 @@ CSS3
 
 * Run the project:
 >    $ Open in your browser
- ##  It's a Chalet hotel :D fictitious
+ ##  It's a Parallax :D fictitious
 
 **Desktop Size**
 ![Initial page](https://github.com/IvanCarlota/parallax/blob/master/imagens/public/readme/1.png)
